@@ -1,0 +1,3 @@
+C:/upro/knjiga/15.Writinglargeprograms/projects/justify/cmake-build-debug/CMakeFiles/justify.dir
+C:/upro/knjiga/15.Writinglargeprograms/projects/justify/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/upro/knjiga/15.Writinglargeprograms/projects/justify/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,42 @@
+[
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\projekt.dir\\justify.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\justify.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\justify.c"
+},
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\projekt.dir\\line.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\line.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\line.c"
+},
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\projekt.dir\\word.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\word.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\word.c"
+},
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\projekt.dir\\line2.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\line2.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\line2.c"
+},
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\justify.dir\\justify.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\justify.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\justify.c"
+},
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\justify.dir\\line.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\line.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\line.c"
+},
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\justify.dir\\word.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\word.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\word.c"
+},
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\justify.dir\\line2.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\line2.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\4\\line2.c"
+}
+]

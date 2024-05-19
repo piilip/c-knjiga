@@ -1,0 +1,4 @@
+# ninja log v5
+118	262	6822164015000399	inventory.exe	bea52f37a0875332
+14	117	6822164013600492	CMakeFiles/inventory.dir/inventory.c.obj	27ed2d57f4b791e4
+39	132	6822155377294797	CMakeFiles/inventory.dir/readline.c.obj	9ea9ce34c75d2ce5

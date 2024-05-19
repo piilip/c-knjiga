@@ -1,0 +1,23 @@
+typedef char Funkcija(int);
+typedef Funkcija *Fpointer;
+typedef Fpointer Fpointer_array[10];
+Fpointer_array x;
+
+typedef int arr[5];
+typedef arr fx(int);
+fx *x;
+
+typedef float *Funkcija(int);
+typedef Funkcija *Fpointer(void);
+Fpointer x;
+
+typedef void outer_fx(int);
+typedef void (*arg_fx)(int);
+typedef outer_fx *inner_fx(int, arg_fx);
+inner_fx x;
+
+char *(*p)(char *);
+void (*f(struct t *p, long int n))(void);
+void (*a[4])(void) = {insert, search, update, print};
+struct t (*b[10])(int, int);
+

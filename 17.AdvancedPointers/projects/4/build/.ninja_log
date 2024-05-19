@@ -1,0 +1,6 @@
+# ninja log v5
+155	315	6823017341047169	justify.exe	db2e6fdb42530452
+42	134	6822995011855691	CMakeFiles/justify.dir/line.c.obj	c8e433f7905fb81c
+47	176	6822222417941011	CMakeFiles/justify.dir/word.c.obj	b4f8277eab6f5edf
+17	154	6823017339445520	CMakeFiles/justify.dir/justify.c.obj	a9b71c790196bf9d
+6	77	6822996091931745	CMakeFiles/justify.dir/line2.c.obj	8ed0c4c20bbcc37

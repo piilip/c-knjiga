@@ -1,0 +1,3 @@
+C:/upro/knjiga/19.BigPrograms/Stack/StackADTlinkedlist/cmake-build-debug/CMakeFiles/StackADTlinkedlist.dir
+C:/upro/knjiga/19.BigPrograms/Stack/StackADTlinkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/upro/knjiga/19.BigPrograms/Stack/StackADTlinkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

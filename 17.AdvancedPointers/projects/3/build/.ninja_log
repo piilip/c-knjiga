@@ -1,0 +1,12 @@
+# ninja log v5
+120	278	6822180611727260	inventory.exe	21e7a311c80915c5
+12	120	6822180610226920	CMakeFiles/inventory.dir/inventory2.c.obj	5deebd73150a1fdd
+30	107	6822180610106899	CMakeFiles/inventory.dir/readline.c.obj	cda176c8ead95de2
+6	116	6822186529303720	CMakeFiles/inventory.dir/inventory2.c.obj	5deebd73150a1fdd
+116	267	6822186530764050	inventory.exe	21e7a311c80915c5
+5	115	6822187164951610	CMakeFiles/inventory.dir/inventory2.c.obj	5deebd73150a1fdd
+116	259	6822187166358317	inventory.exe	21e7a311c80915c5
+6	110	6822187732957046	CMakeFiles/inventory.dir/inventory2.c.obj	5deebd73150a1fdd
+111	257	6822187734377341	inventory.exe	21e7a311c80915c5
+6	115	6822190233259493	CMakeFiles/inventory.dir/inventory2.c.obj	5deebd73150a1fdd
+116	267	6822190234732958	inventory.exe	21e7a311c80915c5

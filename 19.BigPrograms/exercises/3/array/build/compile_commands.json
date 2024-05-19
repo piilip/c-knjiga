@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/upro/knjiga/19.BigPrograms/exercises/3/array/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\array.dir\\queuearray.c.obj -c C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\array\\queuearray.c",
+  "file": "C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\array\\queuearray.c"
+},
+{
+  "directory": "C:/upro/knjiga/19.BigPrograms/exercises/3/array/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\array.dir\\queueclient.c.obj -c C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\array\\queueclient.c",
+  "file": "C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\array\\queueclient.c"
+},
+{
+  "directory": "C:/upro/knjiga/19.BigPrograms/exercises/3/array/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\justice.dir\\queuearray.c.obj -c C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\array\\queuearray.c",
+  "file": "C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\array\\queuearray.c"
+},
+{
+  "directory": "C:/upro/knjiga/19.BigPrograms/exercises/3/array/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\justice.dir\\queueclient.c.obj -c C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\array\\queueclient.c",
+  "file": "C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\array\\queueclient.c"
+}
+]

@@ -1,0 +1,5 @@
+a) x is an array of pointers to function with argument int that returns char
+b)  x is a function that returns a pointer to an array of five integers
+c) x is a function with no arguments that returns a pointer to a 
+function with an int argument that returns a pointer to a float value.
+c) x je pointer na funkciju koja prima (integer i pointer na funkciju koja prima int i vraća void) 

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/upro/knjiga/19.BigPrograms/exercises/3/list/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\list.dir\\queuelist.c.obj -c C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\list\\queuelist.c",
+  "file": "C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\list\\queuelist.c"
+},
+{
+  "directory": "C:/upro/knjiga/19.BigPrograms/exercises/3/list/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\list.dir\\queuelistclient.c.obj -c C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\list\\queuelistclient.c",
+  "file": "C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\list\\queuelistclient.c"
+},
+{
+  "directory": "C:/upro/knjiga/19.BigPrograms/exercises/3/list/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\please.dir\\queuelist.c.obj -c C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\list\\queuelist.c",
+  "file": "C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\list\\queuelist.c"
+},
+{
+  "directory": "C:/upro/knjiga/19.BigPrograms/exercises/3/list/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\please.dir\\queuelistclient.c.obj -c C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\list\\queuelistclient.c",
+  "file": "C:\\upro\\knjiga\\19.BigPrograms\\exercises\\3\\list\\queuelistclient.c"
+}
+]

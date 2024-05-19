@@ -1,0 +1,7 @@
+# ninja log v5
+25	99	6824799515938884	CMakeFiles/client.dir/queueclient.c.obj	6bdb525ebd66633
+7	108	6824799516018813	CMakeFiles/client.dir/queuearray.c.obj	4c141203f9421613
+108	262	6824799517529243	client.exe	2d6c6a591b078a58
+36	110	6824818875862013	CMakeFiles/justice.dir/queueclient.c.obj	8299eaa988c5ab0a
+17	121	6824818875961931	CMakeFiles/justice.dir/queuearray.c.obj	662c46a0d9a6f8fa
+121	250	6824818877232303	justice.exe	a4a117984f77a05b

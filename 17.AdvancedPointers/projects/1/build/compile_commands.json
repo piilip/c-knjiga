@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\projekt.dir\\inventory.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\1\\inventory.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\1\\inventory.c"
+},
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\projekt.dir\\readline.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\1\\readline.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\1\\readline.c"
+},
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\inventory.dir\\inventory.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\1\\inventory.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\1\\inventory.c"
+},
+{
+  "directory": "C:/upro/knjiga/17.AdvancedPointers/projects/1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\inventory.dir\\readline.c.obj -c C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\1\\readline.c",
+  "file": "C:\\upro\\knjiga\\17.AdvancedPointers\\projects\\1\\readline.c"
+}
+]

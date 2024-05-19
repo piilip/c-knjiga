@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/upro/knjiga/19.BigPrograms/Stack/StackADTlinkedlist/stackadt.c
+stackadt.h
+C:/upro/knjiga/19.BigPrograms/Stack/StackADTlinkedlist/stackadt.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/upro/knjiga/19.BigPrograms/Stack/StackADTlinkedlist/stackadt.h
+stdbool.h
+-
+
+C:/upro/knjiga/19.BigPrograms/Stack/StackADTlinkedlist/stackclient.c
+stackadt.h
+C:/upro/knjiga/19.BigPrograms/Stack/StackADTlinkedlist/stackadt.h
+stdio.h
+-
+
